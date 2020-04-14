@@ -28,4 +28,4 @@ void GiamDan(int a[], int n)
         }
     }
 }
-pritnf("this is user1");
+

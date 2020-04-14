@@ -28,4 +28,5 @@ void GiamDan(int a[], int n)
         }
     }
 }
+printf("this is user1");
 
